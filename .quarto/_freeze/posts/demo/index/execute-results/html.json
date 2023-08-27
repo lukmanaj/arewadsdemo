@@ -1,0 +1,11 @@
+{
+  "hash": "b90e17f940b60022a7c12af2c8589b30",
+  "result": {
+    "markdown": "---\ntitle: \"Blog demo\"\nauthor: \"Lukman\"\ndate: \"2023-08-27\"\ncategories: [code,blog,writing]\nimage: \"image.jpg\"\n---\n\n## Blog Demo\n\nShowing python\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nl1 = ['apple','dog','cassava']\nprint(f\"the list: {l1}\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nthe list: ['apple', 'dog', 'cassava']\n```\n:::\n:::\n\n\nLet's see the list\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

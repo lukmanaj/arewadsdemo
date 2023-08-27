@@ -1,0 +1,19 @@
+---
+title: "Blog demo"
+author: "Lukman"
+date: "2023-08-27"
+categories: [code,blog,writing]
+image: "image.jpg"
+---
+
+## Blog Demo
+
+Showing python
+
+```{python}
+l1 = ['apple','dog','cassava']
+print(f"the list: {l1}")
+
+```
+
+Let's see the list
